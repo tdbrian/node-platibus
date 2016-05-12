@@ -1,0 +1,28 @@
+{
+  "name": "node-platibus",
+  "version": "0.0.1",
+  "description": "NodeJS port of Platibus Decentralized asynchronous messaging framework",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "platibus",
+    "platibus",
+    "messaging",
+    "framework",
+    "messaging",
+    "async",
+    "messaging",
+    "framework",
+    "bus",
+    "async",
+    "bus"
+  ],
+  "author": "Thomas Brian <https://github.com/tdbrian>",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.13.0"
+  }
+}
